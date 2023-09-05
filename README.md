@@ -1,2 +1,1 @@
-# hellow-word
-hello word
+Repositório feito para primeira atividade da Cubos Academy
